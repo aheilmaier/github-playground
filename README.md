@@ -11,7 +11,7 @@ Feel free to open pull requests and play around to see how the github workflow w
 2. Clone your fork of the repository, e.g:
 ```
 git clone git@github.com:YOURNAME/github-playground.git
-```
+``` 
 3. Create a local branch that holds your bugfix:
 ```
 git checkout -b my-fix-branch
