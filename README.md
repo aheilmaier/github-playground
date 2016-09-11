@@ -27,3 +27,4 @@ git commit -m "I fixed the thing!"
 git push origin my-fix-branch
 ```
 7. Make a pull request on the gitbub page
+8. What happens if 2 branches changed one file ?
